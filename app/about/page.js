@@ -1,6 +1,6 @@
-import Image from "next/image";
+import React from "react";
 
-export default function Home() {
+export default function Page() {
   return (
     <main className="mt-10">
       <div>
@@ -9,3 +9,4 @@ export default function Home() {
          </main>
   );
 }
+
